@@ -24,7 +24,7 @@ void main() {
 
   print(array1);
   print(array2);
-
+  // This Is Late
   late var value = getValue();
   print('variabel sudah dibuat');
   print(value);
